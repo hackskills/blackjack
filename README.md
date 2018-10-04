@@ -7,4 +7,4 @@ The goal of the game is for a player to get a blackjack, or sum of 21, by drawin
 The full rules can be found on [Wikipedia](https://en.wikipedia.org/wiki/Blackjack).
 
 ### How the Game Works
-The game can handle up to 7 players, although more players can be added by modifying the code. Each player starts with $100 and the game will continue for as long as there is a player who still has money. Players lose money by betting and then losing the round, and they win by betting and then winning the round.
+The game can handle up to 7 players, although more players can be added by modifying the code. Each player starts with $100 and the game will continue for as long as there is a player who still has money. Players lose money by betting and then losing the round, and they win by betting and then winning the round. The player does not win or lose money if the sum is the same as the dealer's sum, as long as it's not a blackjack.
